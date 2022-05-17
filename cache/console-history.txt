@@ -1,0 +1,40 @@
+.exit
+c.viewCandidates()
+c
+const c = await C.attach('0xA93Da959bBBcE93c38C2Bb603a153A8f83f01159')
+const C = await ethers.getContractFactory('DecentralizedEVoting');
+c.viewCandidates();
+c.viewCandidates()
+c
+const c = await C.attach('0x5FbDB2315678afecb367f032d93F642f64180aa3')
+const C = await ethers.getContractFactory("DecentralizedEVoting");
+.exit
+await ba.owner()
+ba
+await ba.candidates(0)
+await ba.viewCandidates()
+ba.viewCandidates()
+ba
+const ba = await b.attach('0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512')
+const b = await ethers.getContractFactory('DecentralizedEVoting');
+await c.deployed()
+c.owner()
+c
+c.candidates(0)
+c
+c.viewCandidates()
+c.viewCandidates
+c.viewCandidates()
+c.candidates()
+c
+const c = await C.attach('0x5FbDB2315678afecb367f032d93F642f64180aa3')
+delete c
+const c = await C.attach('Cannot read properties of undefined (reading 'attach')')
+const C = await ethers.getContractFactory('DecentralizedEVoting');
+.exit
+exit
+const a = await c.attach('0x5FbDB2315678afecb367f032d93F642f64180aa3')
+const b = await c.Attach('0x5FbDB2315678afecb367f032d93F642f64180aa3');
+const c = await c.Attach('0x5FbDB2315678afecb367f032d93F642f64180aa3');
+const c = await c.attach('0x5FbDB2315678afecb367f032d93F642f64180aa3');
+const C = await ethers.getContractFactory('DecentralizedEVoting');
